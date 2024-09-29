@@ -1,4 +1,5 @@
-## Robot Package
+## Autonomous Navigation Mobile Robot using ROS Navigation Stack.
 
-This is a GitHub template. You can make your own copy by clicking the green "Use this template" button.
-Note that each directory currently has at least one file in it to ensure that git tracks the files (and, consequently, that a fresh clone has direcctories present for CMake to find). These example files can be removed if required (and the directories can be removed if `CMakeLists.txt` is adjusted accordingly).
+In this project, the Eddie robot from Parallax has been modified to implement its autonomous navigation ability as well as other functionalities of a robotic system base on the Robot Operating System (ROS).
+
+ROS navigation stack is used to provide the autonomous navigation functionality for our robot. The requirements to run the navigation stack properly based on our hardware specifications are fulfilled by implementing our own custom ROS packages as well as using existing packages provided by the ROS community.
